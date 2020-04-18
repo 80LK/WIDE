@@ -8,7 +8,7 @@
 	"Version":"1.0.0",
 	
 	//Ссылка на тему в сети Интернет
-	"Update":"",
+	"Update":"https://raw.githubusercontent.com/80LK/WIDE/master/Themes/DefaultTheme.json",
 	
 	/* Основные элементы */
 	//Цвет фона
